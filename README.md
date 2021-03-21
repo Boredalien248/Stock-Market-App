@@ -9,6 +9,6 @@ I recommend downloading the below mentioned modules in a virtual env (all these 
               sklearn
               yfinance
 
-keep main.py, mymain.kv in the same folder in order to run the code
+keep main.py, mymain.kv and the virtual env in the same folder in order to run the code
 
-ARIMA_code.py is not needed to run the code. 
+ARIMA_code.py is not needed to run the code you can run it to check the model without the app interface. 
