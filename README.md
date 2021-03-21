@@ -1,6 +1,8 @@
 # Stock-Market-App
 
-I recommend downloading the below mentioned modules in a virtual env (all these modules need to be downloaded to run the code):
+For the detailed explanation of the project, check out the Project Documentation in the Main Branch
+
+We recommend downloading the below mentioned modules in a virtual env (all these modules need to be downloaded to run the code):
 
               KIVY
               Numpy 
