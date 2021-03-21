@@ -1,4 +1,4 @@
-# Stock-Market-App
+# Time-Series-Forecasting-Using-ARIMA
 
 For the detailed explanation of the project, check out the Project Documentation in the Main Branch
 
